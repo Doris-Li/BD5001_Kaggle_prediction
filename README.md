@@ -1,6 +1,6 @@
 # BD5001_Kaggle_prediction
 
-## environment:
+## Environment:
 
   python 3.7
   
@@ -26,4 +26,4 @@
   
 ## Run Kaggle LZY.ipynb
 
-and you will get the prediction: xgboost_submission.csv
+and you will get the prediction result: xgboost_submission.csv
