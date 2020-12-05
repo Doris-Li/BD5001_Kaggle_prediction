@@ -1,6 +1,6 @@
 # BD5001_Kaggle_prediction
 
-environment:
+environment:\n
   python 3.7
   install numpy
   install pandas
