@@ -1,6 +1,6 @@
 # BD5001_Kaggle_prediction
 
-environment:
+## environment:
 
   python 3.7
   
@@ -13,9 +13,9 @@ environment:
   install xgboost
   
 
-Download files:
+## Download files:
 
-  Kaggle L.ipynb
+  Kaggle LZY.ipynb
   
   train.csv
   
@@ -24,6 +24,6 @@ Download files:
   sampleSubmission.csv
   
   
-Run Kaggle L.ipynb
+## Run Kaggle LZY.ipynb
 
 and you will get the prediction: xgboost_submission.csv
